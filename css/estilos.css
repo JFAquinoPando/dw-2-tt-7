@@ -1,0 +1,22 @@
+p span {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+p {
+    padding: 10px 30px;
+    border: 1px solid black;
+}
+
+.cambio {
+    color: dimgray;
+}
+
+div.fuente-grande {
+    font-size: 24px;
+}
+
+em {
+    color: rgb(255,0,255);
+}
+
